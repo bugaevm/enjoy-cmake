@@ -1,0 +1,7 @@
+.transparent {
+    opacity: 0;
+}
+
+window {
+    background: @theme_base_color;
+}
